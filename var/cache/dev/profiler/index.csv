@@ -1,0 +1,10 @@
+c4ad08,172.19.0.1,GET,http://localhost:82/ticket/public/,1593516960,,200
+c97ed1,172.19.0.1,GET,http://localhost:82/ticket/public/index.php/news/life-on-planet-mercury-tan-relaxing-and-fabulous-1,1593516978,,200
+bf3f78,172.19.0.1,GET,http://localhost:82/ticket/public/index.php/login,1593516999,,200
+e795fd,172.19.0.1,POST,http://localhost:82/ticket/public/index.php/login,1593517002,,302
+40d658,172.19.0.1,GET,http://localhost:82/ticket/public/index.php/,1593517002,,200
+773f68,172.19.0.1,GET,http://localhost:82/ticket/public/index.php/logout,1593517018,,302
+999858,172.19.0.1,GET,http://localhost:82/ticket/public/index.php/,1593517018,,200
+1f44f9,172.19.0.1,GET,http://localhost:82/ticket/public/index.php/register,1593518491,,200
+bc144a,172.19.0.1,POST,http://localhost:82/ticket/public/index.php/register,1593518561,,302
+c11f1d,172.19.0.1,GET,http://localhost:82/ticket/public/index.php/,1593518561,,200
